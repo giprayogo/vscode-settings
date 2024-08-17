@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    // Themes.
+    "Catppuccin.catppuccin-vsc",
+    "Catppuccin.catppuccin-vsc-icons",
+    "dracula-theme.theme-dracula",
+    "GitHub.github-vscode-theme",
+    // Useful.
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "formulahendry.code-runner", // Run code snippets.
+    "usernamehw.errorlens", // Show errors and warnings inline.
+    "eamodio.gitlens", // Git things inline.
+    "mhutchie.git-graph", // Show git graph (and UI for common operations).
+    "oderwat.indent-rainbow", // Indentation highlighting.
+    "jebbs.plantuml", // PlantUML within VS Code.
+    "pomdtr.excalidraw-editor", // Excalidraw within VS Code.
+    "vscodevim.vim" // Vim keybindings.
+  ]
+}
